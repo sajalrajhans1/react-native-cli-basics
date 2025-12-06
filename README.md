@@ -22,10 +22,8 @@ This is a UI-focused React Native application showcasing different card layouts 
 
 <p align="center">
   <img src="images/screenshot1.jpg" width="300" />
-  <img src="images/screenshot2" width="300" />
+  <img src="images/screenshot2.jpg" width="300" />
 </p>
-
-> Add your images inside a `screenshots` folder and update paths if needed.
 
 ## Getting Started
 
